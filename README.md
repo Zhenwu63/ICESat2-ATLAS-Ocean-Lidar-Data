@@ -30,4 +30,4 @@ These files permit reuse and verification of the reported derived scientific res
 They do not contain the complete raw-photon processing chain or every intermediate case.
 
 ## Citation and license
-Insert the final paper citation, dataset DOI and selected data license before publication.
+The associated manuscript has not yet been published. The article citation and dataset DOI will be added when available. No data reuse license has been assigned at this stage.
